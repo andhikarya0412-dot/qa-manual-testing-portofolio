@@ -23,6 +23,7 @@ Tools
 - Business Process Modelling Node, Flowchart, Activity Diagram, UML
 - Figma for Mockups
 - Snagit
+- Scrypy
 
 Project Experience
 Documented experience handling application projects and features during my professional assignment. See Project Portofolio for a summary of projects experience
